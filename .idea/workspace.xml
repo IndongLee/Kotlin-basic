@@ -3,51 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="cdb17356-f3ba-4630-9e06-81cbc17507ce" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Kotlin_Basic/Chapter3/_01_functionKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin_Basic/Chapter3/_01_functionKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Kotlin_Basic/Chapter3/_02_functionalProgrammingKt$lambda$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin_Basic/Chapter3/_02_functionalProgrammingKt$lambda$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Kotlin_Basic/Chapter3/_02_functionalProgrammingKt$main$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin_Basic/Chapter3/_02_functionalProgrammingKt$main$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Kotlin_Basic/Chapter3/_02_functionalProgrammingKt$main$10.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin_Basic/Chapter3/_02_functionalProgrammingKt$main$10.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Kotlin_Basic/Chapter3/_02_functionalProgrammingKt$main$11.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin_Basic/Chapter3/_02_functionalProgrammingKt$main$11.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Kotlin_Basic/Chapter3/_02_functionalProgrammingKt$main$12.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin_Basic/Chapter3/_02_functionalProgrammingKt$main$12.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Kotlin_Basic/Chapter3/_02_functionalProgrammingKt$main$13.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin_Basic/Chapter3/_02_functionalProgrammingKt$main$13.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Kotlin_Basic/Chapter3/_02_functionalProgrammingKt$main$14.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin_Basic/Chapter3/_02_functionalProgrammingKt$main$14.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Kotlin_Basic/Chapter3/_02_functionalProgrammingKt$main$15.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin_Basic/Chapter3/_02_functionalProgrammingKt$main$15.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Kotlin_Basic/Chapter3/_02_functionalProgrammingKt$main$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin_Basic/Chapter3/_02_functionalProgrammingKt$main$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Kotlin_Basic/Chapter3/_02_functionalProgrammingKt$main$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin_Basic/Chapter3/_02_functionalProgrammingKt$main$3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Kotlin_Basic/Chapter3/_02_functionalProgrammingKt$main$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin_Basic/Chapter3/_02_functionalProgrammingKt$main$4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Kotlin_Basic/Chapter3/_02_functionalProgrammingKt$main$5.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin_Basic/Chapter3/_02_functionalProgrammingKt$main$5.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Kotlin_Basic/Chapter3/_02_functionalProgrammingKt$main$6.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin_Basic/Chapter3/_02_functionalProgrammingKt$main$6.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Kotlin_Basic/Chapter3/_02_functionalProgrammingKt$main$7.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin_Basic/Chapter3/_02_functionalProgrammingKt$main$7.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Kotlin_Basic/Chapter3/_02_functionalProgrammingKt$main$8.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin_Basic/Chapter3/_02_functionalProgrammingKt$main$8.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Kotlin_Basic/Chapter3/_02_functionalProgrammingKt$main$9.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin_Basic/Chapter3/_02_functionalProgrammingKt$main$9.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Kotlin_Basic/Chapter3/_02_functionalProgrammingKt$main$greet$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin_Basic/Chapter3/_02_functionalProgrammingKt$main$greet$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Kotlin_Basic/Chapter3/_02_functionalProgrammingKt$main$multi$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin_Basic/Chapter3/_02_functionalProgrammingKt$main$multi$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Kotlin_Basic/Chapter3/_02_functionalProgrammingKt$main$multi2$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin_Basic/Chapter3/_02_functionalProgrammingKt$main$multi2$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Kotlin_Basic/Chapter3/_02_functionalProgrammingKt$main$multi3$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin_Basic/Chapter3/_02_functionalProgrammingKt$main$multi3$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Kotlin_Basic/Chapter3/_02_functionalProgrammingKt$main$nestedLambda$1$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin_Basic/Chapter3/_02_functionalProgrammingKt$main$nestedLambda$1$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Kotlin_Basic/Chapter3/_02_functionalProgrammingKt$main$nestedLambda$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin_Basic/Chapter3/_02_functionalProgrammingKt$main$nestedLambda$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Kotlin_Basic/Chapter3/_02_functionalProgrammingKt$main$res1$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin_Basic/Chapter3/_02_functionalProgrammingKt$main$res1$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Kotlin_Basic/Chapter3/_02_functionalProgrammingKt$main$square$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin_Basic/Chapter3/_02_functionalProgrammingKt$main$square$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Kotlin_Basic/Chapter3/_02_functionalProgrammingKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin_Basic/Chapter3/_02_functionalProgrammingKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Kotlin_Basic/Chapter3/_03_otherFunctionsKt$addNumbers$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin_Basic/Chapter3/_03_otherFunctionsKt$addNumbers$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Kotlin_Basic/Chapter3/_03_otherFunctionsKt$addNumbersByLambda$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin_Basic/Chapter3/_03_otherFunctionsKt$addNumbersByLambda$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Kotlin_Basic/Chapter3/_03_otherFunctionsKt$crossInlineFuc$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin_Basic/Chapter3/_03_otherFunctionsKt$crossInlineFuc$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Kotlin_Basic/Chapter3/_03_otherFunctionsKt$main$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin_Basic/Chapter3/_03_otherFunctionsKt$main$3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Kotlin_Basic/Chapter3/_03_otherFunctionsKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin_Basic/Chapter3/_03_otherFunctionsKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Kotlin_Basic/Chapter4/_01_conditionKt$main$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin_Basic/Chapter4/_01_conditionKt$main$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Kotlin_Basic/Chapter4/_01_conditionKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin_Basic/Chapter4/_01_conditionKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Kotlin_Basic/Chapter4/_02_loopKt$main$getMessage$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin_Basic/Chapter4/_02_loopKt$main$getMessage$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Kotlin_Basic/Chapter4/_02_loopKt$main$getMessagebyLambda$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin_Basic/Chapter4/_02_loopKt$main$getMessagebyLambda$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Kotlin_Basic/Chapter4/_02_loopKt$retFunc$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin_Basic/Chapter4/_02_loopKt$retFunc$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Kotlin_Basic/Chapter4/_02_loopKt$retFunc2$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin_Basic/Chapter4/_02_loopKt$retFunc2$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Kotlin_Basic/Chapter4/_02_loopKt$retFuncAnony$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin_Basic/Chapter4/_02_loopKt$retFuncAnony$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Kotlin_Basic/Chapter4/_02_loopKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin_Basic/Chapter4/_02_loopKt.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Kotlin_Basic/META-INF/Kotlin_Basic.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin_Basic/META-INF/Kotlin_Basic.kotlin_module" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter3/01_function.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter3/01_Function.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter3/02_functionalProgramming.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter3/02_FunctionalProgramming.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter3/03_otherFunctions.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter3/03_OtherFunctions.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter4/01_condition.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter4/01_Condition.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter4/02_loop.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter4/02_Loop.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,20 +43,7 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
-  <component name="RunManager" selected="Kotlin.Chapter6._01_AccessPropertyKt">
-    <configuration name="Chapter4._02_LoopKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <module name="Kotlin_Basic" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="Chapter4._02_LoopKt" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Kotlin.Chapter6._02_LateinitAndLazyKt">
     <configuration name="Chapter5._01_OOPKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="Kotlin_Basic" />
       <option name="VM_PARAMETERS" />
@@ -153,13 +96,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Chapter6._02_LateinitAndLazyKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="Kotlin_Basic" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="Chapter6._02_LateinitAndLazyKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.Chapter6._02_LateinitAndLazyKt" />
         <item itemvalue="Kotlin.Chapter6._01_AccessPropertyKt" />
         <item itemvalue="Kotlin.Chapter5._03_EncapsulationKt" />
         <item itemvalue="Kotlin.Chapter5._02_InheritanceAndPolymorphismKt" />
         <item itemvalue="Kotlin.Chapter5._01_OOPKt" />
-        <item itemvalue="Kotlin.Chapter4._02_LoopKt" />
       </list>
     </recent_temporary>
   </component>
@@ -174,7 +130,7 @@
       <option name="presentableId" value="Default" />
       <updated>1582531352998</updated>
       <workItem from="1582531357262" duration="1876000" />
-      <workItem from="1582602209030" duration="20418000" />
+      <workItem from="1582602209030" duration="24552000" />
     </task>
     <servers />
   </component>
@@ -186,25 +142,29 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="361" y="71" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1582531367974" />
-    <state width="1342" height="160" key="GridCell.Tab.0.bottom" timestamp="1582634542204">
+    <state width="1342" height="176" key="GridCell.Tab.0.bottom" timestamp="1582638085286">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1342" height="160" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1582634542204" />
-    <state width="1342" height="160" key="GridCell.Tab.0.center" timestamp="1582634542204">
+    <state width="1342" height="176" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1582638085286" />
+    <state width="1342" height="176" key="GridCell.Tab.0.center" timestamp="1582638085286">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1342" height="160" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1582634542204" />
-    <state width="1342" height="160" key="GridCell.Tab.0.left" timestamp="1582634542204">
+    <state width="1342" height="176" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1582638085286" />
+    <state width="1342" height="176" key="GridCell.Tab.0.left" timestamp="1582638085285">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1342" height="160" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1582634542204" />
-    <state width="1342" height="160" key="GridCell.Tab.0.right" timestamp="1582634542204">
+    <state width="1342" height="176" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1582638085285" />
+    <state width="1342" height="176" key="GridCell.Tab.0.right" timestamp="1582638085286">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1342" height="160" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1582634542204" />
+    <state width="1342" height="176" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1582638085286" />
     <state x="459" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1582602215818">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="459" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1582602215818" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1582635353641">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1582635353641" />
   </component>
 </project>

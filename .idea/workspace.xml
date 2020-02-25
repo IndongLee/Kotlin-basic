@@ -3,6 +3,18 @@
   <component name="ChangeListManager">
     <list default="true" id="cdb17356-f3ba-4630-9e06-81cbc17507ce" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Kotlin_Basic/Chapter6/Car.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin_Basic/Chapter6/Car.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Kotlin_Basic/Chapter6/CarModel.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin_Basic/Chapter6/CarModel.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Kotlin_Basic/Chapter6/LazyTest$subject$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin_Basic/Chapter6/LazyTest$subject$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Kotlin_Basic/Chapter6/LazyTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin_Basic/Chapter6/LazyTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Kotlin_Basic/Chapter6/Person$test$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin_Basic/Chapter6/Person$test$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Kotlin_Basic/Chapter6/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin_Basic/Chapter6/Person.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Kotlin_Basic/Chapter6/Person2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin_Basic/Chapter6/Person2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Kotlin_Basic/Chapter6/SportImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin_Basic/Chapter6/SportImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Kotlin_Basic/Chapter6/VanImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin_Basic/Chapter6/VanImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Kotlin_Basic/Chapter6/_02_LateInitAndLazyKt$main$person$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin_Basic/Chapter6/_02_LateInitAndLazyKt$main$person$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Kotlin_Basic/Chapter6/_02_LateInitAndLazyKt$main$personDelegate$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin_Basic/Chapter6/_02_LateInitAndLazyKt$main$personDelegate$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Kotlin_Basic/Chapter6/_02_LateInitAndLazyKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin_Basic/Chapter6/_02_LateInitAndLazyKt.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Kotlin_Basic/META-INF/Kotlin_Basic.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin_Basic/META-INF/Kotlin_Basic.kotlin_module" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,20 +55,7 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
-  <component name="RunManager" selected="Kotlin.Chapter6._02_LateinitAndLazyKt">
-    <configuration name="Chapter5._01_OOPKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <module name="Kotlin_Basic" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="Chapter5._01_OOPKt" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Kotlin.Chapter6._03_StaticVariableAndCompanionObjectKt">
     <configuration name="Chapter5._02_InheritanceAndPolymorphismKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="Kotlin_Basic" />
       <option name="VM_PARAMETERS" />
@@ -109,13 +108,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Chapter6._03_StaticVariableAndCompanionObjectKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="Kotlin_Basic" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="Chapter6._03_StaticVariableAndCompanionObjectKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.Chapter6._03_StaticVariableAndCompanionObjectKt" />
         <item itemvalue="Kotlin.Chapter6._02_LateinitAndLazyKt" />
         <item itemvalue="Kotlin.Chapter6._01_AccessPropertyKt" />
         <item itemvalue="Kotlin.Chapter5._03_EncapsulationKt" />
         <item itemvalue="Kotlin.Chapter5._02_InheritanceAndPolymorphismKt" />
-        <item itemvalue="Kotlin.Chapter5._01_OOPKt" />
       </list>
     </recent_temporary>
   </component>
@@ -130,7 +142,7 @@
       <option name="presentableId" value="Default" />
       <updated>1582531352998</updated>
       <workItem from="1582531357262" duration="1876000" />
-      <workItem from="1582602209030" duration="24552000" />
+      <workItem from="1582602209030" duration="26292000" />
     </task>
     <servers />
   </component>
@@ -142,22 +154,26 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="361" y="71" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1582531367974" />
-    <state width="1342" height="176" key="GridCell.Tab.0.bottom" timestamp="1582638085286">
+    <state x="388" y="6" key="CommitChangelistDialog2" timestamp="1582639489532">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1342" height="176" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1582638085286" />
-    <state width="1342" height="176" key="GridCell.Tab.0.center" timestamp="1582638085286">
+    <state x="388" y="6" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1582639489532" />
+    <state width="1342" height="176" key="GridCell.Tab.0.bottom" timestamp="1582639639704">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1342" height="176" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1582638085286" />
-    <state width="1342" height="176" key="GridCell.Tab.0.left" timestamp="1582638085285">
+    <state width="1342" height="176" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1582639639704" />
+    <state width="1342" height="176" key="GridCell.Tab.0.center" timestamp="1582639639704">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1342" height="176" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1582638085285" />
-    <state width="1342" height="176" key="GridCell.Tab.0.right" timestamp="1582638085286">
+    <state width="1342" height="176" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1582639639704" />
+    <state width="1342" height="176" key="GridCell.Tab.0.left" timestamp="1582639639704">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1342" height="176" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1582638085286" />
+    <state width="1342" height="176" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1582639639704" />
+    <state width="1342" height="176" key="GridCell.Tab.0.right" timestamp="1582639639704">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1342" height="176" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1582639639704" />
     <state x="459" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1582602215818">
       <screen x="0" y="0" width="1536" height="824" />
     </state>

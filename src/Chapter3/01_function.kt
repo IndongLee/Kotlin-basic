@@ -17,7 +17,7 @@ fun printSum(a: Int, b: Int): Unit {
 }
 
 // 매개변수에 기본값 지정하기
-fun add(name: String, email: String = "default") {
+fun userInfo(name: String, email: String = "default") {
     println("${name}님의 이메일은 ${email}입니다.")
 }
 
@@ -33,7 +33,7 @@ fun main() {
     println(sum(5, 10))
     println(sum2(5, 10))
     printSum(5, 10)
-    add("이인동", "kundera@kakao.com")
-    add("코틀린")
+    userInfo("이인동", "kundera@kakao.com")
+    userInfo("코틀린")
     normalVarargs(1, 3, 5, 7, 9)
 }

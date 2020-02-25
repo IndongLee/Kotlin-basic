@@ -43,7 +43,7 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
-  <component name="RunManager" selected="Kotlin.Chapter4._01_conditionKt">
+  <component name="RunManager" selected="Kotlin.Chapter4._02_loopKt">
     <configuration name="Chapter3._01_functionKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="Kotlin_Basic" />
       <option name="VM_PARAMETERS" />
@@ -96,8 +96,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Chapter4._02_loopKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="Kotlin_Basic" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="Chapter4._02_loopKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.Chapter4._02_loopKt" />
         <item itemvalue="Kotlin.Chapter4._01_conditionKt" />
         <item itemvalue="Kotlin.Chapter3._03_otherFunctionsKt" />
         <item itemvalue="Kotlin.Chapter3._02_functionalProgrammingKt" />
@@ -116,7 +130,7 @@
       <option name="presentableId" value="Default" />
       <updated>1582531352998</updated>
       <workItem from="1582531357262" duration="1876000" />
-      <workItem from="1582602209030" duration="11187000" />
+      <workItem from="1582602209030" duration="13720000" />
     </task>
     <servers />
   </component>
@@ -128,22 +142,22 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="361" y="71" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1582531367974" />
-    <state width="1342" height="160" key="GridCell.Tab.0.bottom" timestamp="1582614457804">
+    <state width="1342" height="160" key="GridCell.Tab.0.bottom" timestamp="1582616479997">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1342" height="160" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1582614457804" />
-    <state width="1342" height="160" key="GridCell.Tab.0.center" timestamp="1582614457804">
+    <state width="1342" height="160" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1582616479997" />
+    <state width="1342" height="160" key="GridCell.Tab.0.center" timestamp="1582616479996">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1342" height="160" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1582614457804" />
-    <state width="1342" height="160" key="GridCell.Tab.0.left" timestamp="1582614457804">
+    <state width="1342" height="160" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1582616479996" />
+    <state width="1342" height="160" key="GridCell.Tab.0.left" timestamp="1582616479996">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1342" height="160" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1582614457804" />
-    <state width="1342" height="160" key="GridCell.Tab.0.right" timestamp="1582614457804">
+    <state width="1342" height="160" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1582616479996" />
+    <state width="1342" height="160" key="GridCell.Tab.0.right" timestamp="1582616479997">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1342" height="160" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1582614457804" />
+    <state width="1342" height="160" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1582616479997" />
     <state x="459" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1582602215818">
       <screen x="0" y="0" width="1536" height="824" />
     </state>

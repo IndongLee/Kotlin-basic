@@ -3,6 +3,36 @@
   <component name="ChangeListManager">
     <list default="true" id="cdb17356-f3ba-4630-9e06-81cbc17507ce" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Kotlin_Basic/Chapter7/A$DefaultImpls.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Kotlin_Basic/Chapter7/A.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin_Basic/Chapter7/A.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Kotlin_Basic/Chapter7/AbstractClassAndInterfaceKt$myPrinter$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Kotlin_Basic/Chapter7/AbstractClassAndInterfaceKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Kotlin_Basic/Chapter7/Animal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin_Basic/Chapter7/Animal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Kotlin_Basic/Chapter7/B$DefaultImpls.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Kotlin_Basic/Chapter7/B.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Kotlin_Basic/Chapter7/C.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Kotlin_Basic/Chapter7/Car.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin_Basic/Chapter7/Car.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Kotlin_Basic/Chapter7/Cat.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin_Basic/Chapter7/Cat.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Kotlin_Basic/Chapter7/CoffeeMaker.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin_Basic/Chapter7/CoffeeMaker.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Kotlin_Basic/Chapter7/CoffeeModule.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin_Basic/Chapter7/CoffeeModule.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Kotlin_Basic/Chapter7/Delegated.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin_Basic/Chapter7/Delegated.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Kotlin_Basic/Chapter7/Dog.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin_Basic/Chapter7/Dog.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Kotlin_Basic/Chapter7/ElectricHeater.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin_Basic/Chapter7/ElectricHeater.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Kotlin_Basic/Chapter7/Heater.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin_Basic/Chapter7/Heater.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Kotlin_Basic/Chapter7/Master.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin_Basic/Chapter7/Master.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Kotlin_Basic/Chapter7/Motocycle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin_Basic/Chapter7/Motocycle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Kotlin_Basic/Chapter7/MyDripCoffeeModule$Companion$electricHeater$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin_Basic/Chapter7/MyDripCoffeeModule$Companion$electricHeater$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Kotlin_Basic/Chapter7/MyDripCoffeeModule$Companion.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin_Basic/Chapter7/MyDripCoffeeModule$Companion.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Kotlin_Basic/Chapter7/MyDripCoffeeModule$_thermosiphon$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin_Basic/Chapter7/MyDripCoffeeModule$_thermosiphon$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Kotlin_Basic/Chapter7/MyDripCoffeeModule.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin_Basic/Chapter7/MyDripCoffeeModule.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Kotlin_Basic/Chapter7/Pet$DefaultImpls.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin_Basic/Chapter7/Pet$DefaultImpls.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Kotlin_Basic/Chapter7/Pet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin_Basic/Chapter7/Pet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Kotlin_Basic/Chapter7/Printer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin_Basic/Chapter7/Printer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Kotlin_Basic/Chapter7/Pump.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin_Basic/Chapter7/Pump.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Kotlin_Basic/Chapter7/Thermosiphon.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin_Basic/Chapter7/Thermosiphon.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Kotlin_Basic/Chapter7/Vehicle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin_Basic/Chapter7/Vehicle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Kotlin_Basic/META-INF/Kotlin_Basic.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin_Basic/META-INF/Kotlin_Basic.kotlin_module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chapter7/AbstractClassAndInterface.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter7/01_AbstractClassAndInterface.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,33 +72,7 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
-  <component name="RunManager" selected="Kotlin.Chapter7.AbstractClassAndInterfaceKt">
-    <configuration name="Chapter5._03_EncapsulationKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <module name="Kotlin_Basic" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="Chapter5._03_EncapsulationKt" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Chapter6._01_AccessPropertyKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <module name="Kotlin_Basic" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="Chapter6._01_AccessPropertyKt" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Kotlin.Chapter7._03_OtherClassesKt">
     <configuration name="Chapter6._02_LateinitAndLazyKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="Kotlin_Basic" />
       <option name="VM_PARAMETERS" />
@@ -95,14 +99,40 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Chapter7.AbstractClassAndInterfaceKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="Chapter7._01_AbstractClassAndInterfaceKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="Kotlin_Basic" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="Chapter7.AbstractClassAndInterfaceKt" />
+      <option name="MAIN_CLASS_NAME" value="Chapter7._01_AbstractClassAndInterfaceKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Chapter7._02_DataClassKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="Kotlin_Basic" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="Chapter7._02_DataClassKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Chapter7._03_OtherClassesKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="Kotlin_Basic" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="Chapter7._03_OtherClassesKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -110,11 +140,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.Chapter7.AbstractClassAndInterfaceKt" />
+        <item itemvalue="Kotlin.Chapter7._03_OtherClassesKt" />
+        <item itemvalue="Kotlin.Chapter7._02_DataClassKt" />
+        <item itemvalue="Kotlin.Chapter7._01_AbstractClassAndInterfaceKt" />
         <item itemvalue="Kotlin.Chapter6._03_StaticVariableAndCompanionObjectKt" />
         <item itemvalue="Kotlin.Chapter6._02_LateinitAndLazyKt" />
-        <item itemvalue="Kotlin.Chapter6._01_AccessPropertyKt" />
-        <item itemvalue="Kotlin.Chapter5._03_EncapsulationKt" />
       </list>
     </recent_temporary>
   </component>
@@ -130,7 +160,7 @@
       <updated>1582531352998</updated>
       <workItem from="1582531357262" duration="1876000" />
       <workItem from="1582602209030" duration="27409000" />
-      <workItem from="1582725571207" duration="2706000" />
+      <workItem from="1582725571207" duration="5069000" />
     </task>
     <servers />
   </component>
@@ -150,22 +180,22 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="388" y="6" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1582639489532" />
-    <state width="1342" height="176" key="GridCell.Tab.0.bottom" timestamp="1582728285394">
+    <state width="1342" height="176" key="GridCell.Tab.0.bottom" timestamp="1582730645481">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1342" height="176" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1582728285394" />
-    <state width="1342" height="176" key="GridCell.Tab.0.center" timestamp="1582728285394">
+    <state width="1342" height="176" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1582730645481" />
+    <state width="1342" height="176" key="GridCell.Tab.0.center" timestamp="1582730645481">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1342" height="176" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1582728285394" />
-    <state width="1342" height="176" key="GridCell.Tab.0.left" timestamp="1582728285394">
+    <state width="1342" height="176" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1582730645481" />
+    <state width="1342" height="176" key="GridCell.Tab.0.left" timestamp="1582730645481">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1342" height="176" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1582728285394" />
-    <state width="1342" height="176" key="GridCell.Tab.0.right" timestamp="1582728285394">
+    <state width="1342" height="176" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1582730645481" />
+    <state width="1342" height="176" key="GridCell.Tab.0.right" timestamp="1582730645481">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1342" height="176" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1582728285394" />
+    <state width="1342" height="176" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1582730645481" />
     <state x="459" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1582725575821">
       <screen x="0" y="0" width="1536" height="824" />
     </state>

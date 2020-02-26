@@ -89,27 +89,27 @@ class Master {
     }
 }
 
-interface A {
-    fun functionA() {}
+interface X {
+    fun functionX() {}
 }
 
-interface B {
-    fun functionB() {}
+interface Y {
+    fun functionY() {}
 }
 
 // functionA와 functionB에 직접 접근하기 위해 A와 B 변수 사용
-class C(val a: A, val b: B) {
-    fun functionC() {
-        a.functionA()
-        b.functionB()
+class Z(val x: X, val y: Y) {
+    fun functionZ() {
+        x.functionX()
+        y.functionY()
     }
 }
 
 // 각각 a와 b 인터페이스를 A와 B에 위임함으로써 해당 메서드를 사용할 때 점(.) 표기법 접근 없이 사용할 수 있게 된다.
-class Delegated(a: A, b: B) : A by a, B by b {
-    fun functionC() {
-        functionA()
-        functionB()
+class Delegated(x: X, y: Y) : X by x, Y by y {
+    fun functionZ() {
+        functionX()
+        functionY()
     }
 }
 

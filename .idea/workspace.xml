@@ -3,12 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="cdb17356-f3ba-4630-9e06-81cbc17507ce" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Kotlin_Basic/Chapter7/DayOfWeek.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin_Basic/Chapter7/DayOfWeek.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Kotlin_Basic/Chapter7/Outer$Companion.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin_Basic/Chapter7/Outer$Companion.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Kotlin_Basic/Chapter7/Outer$Nested.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin_Basic/Chapter7/Outer$Nested.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Kotlin_Basic/Chapter7/Outer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin_Basic/Chapter7/Outer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Kotlin_Basic/Chapter7/_03_OtherClassesKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin_Basic/Chapter7/_03_OtherClassesKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Kotlin_Basic/META-INF/Kotlin_Basic.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin_Basic/META-INF/Kotlin_Basic.kotlin_module" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -137,7 +131,7 @@
       <workItem from="1582531357262" duration="1876000" />
       <workItem from="1582602209030" duration="27409000" />
       <workItem from="1582725571207" duration="5069000" />
-      <workItem from="1582785182733" duration="7015000" />
+      <workItem from="1582785182733" duration="8581000" />
     </task>
     <servers />
   </component>

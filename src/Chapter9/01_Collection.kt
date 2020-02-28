@@ -111,5 +111,4 @@ fun main() {
     val addData = mutableMapOf("Italy" to "Rome")
     capitalCityMap.putAll(addData) // 두 Map 객체를 통합한다.
     println(capitalCityMap)
-
 }

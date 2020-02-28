@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="cdb17356-f3ba-4630-9e06-81cbc17507ce" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Kotlin_Basic/META-INF/Kotlin_Basic.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin_Basic/META-INF/Kotlin_Basic.kotlin_module" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +42,7 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
-  <component name="RunManager" selected="Kotlin.Chapter10._01_StandardFunctionKt">
+  <component name="RunManager" selected="Kotlin.Chapter10._02_DSLKt">
     <configuration name="Chapter10._01_StandardFunctionKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="Kotlin_Basic" />
       <option name="VM_PARAMETERS" />
@@ -57,14 +56,14 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Chapter8._05_StringKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="Chapter10._02_DSLKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="Kotlin_Basic" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="Chapter8._05_StringKt" />
+      <option name="MAIN_CLASS_NAME" value="Chapter10._02_DSLKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -111,11 +110,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.Chapter10._02_DSLKt" />
         <item itemvalue="Kotlin.Chapter10._01_StandardFunctionKt" />
         <item itemvalue="Kotlin.Chapter9._03_SequenceKt" />
         <item itemvalue="Kotlin.Chapter9._02_ExtensionFunctionKt" />
         <item itemvalue="Kotlin.Chapter9._01_CollectionKt" />
-        <item itemvalue="Kotlin.Chapter8._05_StringKt" />
       </list>
     </recent_temporary>
   </component>
@@ -135,7 +134,8 @@
       <workItem from="1582785182733" duration="22829000" />
       <workItem from="1582857605361" duration="223000" />
       <workItem from="1582859357430" duration="2023000" />
-      <workItem from="1582862990501" duration="7570000" />
+      <workItem from="1582862990501" duration="8356000" />
+      <workItem from="1582891059507" duration="760000" />
     </task>
     <servers />
   </component>
@@ -155,22 +155,22 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="388" y="6" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1582639489532" />
-    <state width="1493" height="190" key="GridCell.Tab.0.bottom" timestamp="1582878045171">
+    <state width="1493" height="190" key="GridCell.Tab.0.bottom" timestamp="1582891830783">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="190" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1582878045171" />
-    <state width="1493" height="190" key="GridCell.Tab.0.center" timestamp="1582878045171">
+    <state width="1493" height="190" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1582891830783" />
+    <state width="1493" height="190" key="GridCell.Tab.0.center" timestamp="1582891830783">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="190" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1582878045171" />
-    <state width="1493" height="190" key="GridCell.Tab.0.left" timestamp="1582878045170">
+    <state width="1493" height="190" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1582891830783" />
+    <state width="1493" height="190" key="GridCell.Tab.0.left" timestamp="1582891830783">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="190" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1582878045170" />
-    <state width="1493" height="190" key="GridCell.Tab.0.right" timestamp="1582878045171">
+    <state width="1493" height="190" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1582891830783" />
+    <state width="1493" height="190" key="GridCell.Tab.0.right" timestamp="1582891830783">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="190" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1582878045171" />
+    <state width="1493" height="190" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1582891830783" />
     <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1582818253095">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -187,10 +187,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1582818253095" />
-    <state x="459" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1582863027408">
+    <state x="459" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1582891061772">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="459" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1582863027408" />
+    <state x="459" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1582891061772" />
     <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1582635353641">
       <screen x="0" y="0" width="1536" height="824" />
     </state>

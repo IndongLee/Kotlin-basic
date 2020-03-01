@@ -53,7 +53,7 @@ fun thread(start: Boolean = true, isDaemon: Boolean = false,
     return thread
 }
 
-fun main() {
+private fun main() {
     val thread = SimpleThread()
     thread.start()
 

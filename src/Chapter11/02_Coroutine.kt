@@ -41,7 +41,7 @@ private fun worksInParallel() {
     }
 }
 
-fun main() { // 메인 스레드의 문맥
+private fun main() { // 메인 스레드의 문맥
     GlobalScope.launch { // 새로운 코루틴을 백그라운드에 실행
         delay(1000L) // 1초의 넌블로킹 지연(시간의 기본 단위는 ms)
         println("World!") // 지연 후 출력

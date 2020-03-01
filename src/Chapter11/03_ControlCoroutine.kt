@@ -4,7 +4,7 @@ import kotlinx.coroutines.*
 
 // 코루틴은 항상 특정한 문맥에서 실행되는데, 어떤 문맥에서 실행할지는 디스패처가 결정한다.
 
-fun main() = runBlocking {
+private fun main() = runBlocking {
     val job = arrayListOf<Job>()
 //    1) Unconfined 문맥 : 호출자 스레드에서 코루틴을 시작하지만 첫 번째 지연점까지만 실행한다. 특정 스레드 풀에 가두지 않고,
 //                         첫 번째 일시 중단 후 호출된 지연 함수에 의해 재개된다. 권장하지 않는 옵션

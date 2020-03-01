@@ -63,6 +63,13 @@ fun main() { // 메인 스레드의 문맥
 //    launch는 스레드를 차단하지 않고 새로운 코루틴을 실행할 수 있게 하며 특정 결괏값 없이 Job 객체를 반환한다.
 //    코루틴을 실행하기 위해서는 내부적으로 스레드를 통해서 실행될 수 있다. 단 실행 루틴이 많지 않은 경우에는 내부적으로 하나의 스레드에서
 //    여러 루틴을 실행할 수 있기 때문에 1개의 스레드면 충분하다.
+
+//    Job : 백그라운드에서 실행되는 작업. 개념적으로는 간단한 생명주기를 가지고 있고 부모-자식 관계가 형성되면 부모가 작업이 취소될 때까지
+//          하위 자식의 작업이 모두 취소된다. 보통 Job() 팩토리 함수나 launch에 의해 job 객체가 생성된다.
+//          Job의 상태를 판별하기 위해 job에는 isActive, isCompleted, isCancelled 변수가 있다.
+//          보통 Job이 생성되면 활성화 상태인 Active를 가진다. 하지만 Job() 팩토리 함수에 인자로 Coroutine.LAZY를 설정하면 아직은
+//          Job이 활성화되지 않고 New 상태로 만들어진다. Job을 Active 상태로 만들기 위해서는 start()나 join() 함수를 호출하면 된다.
+//          Job을 취소하려면 cancel() 함수를 사용할 수 있다. 그러면 Job은 Cancelling 상태로 즉시 바뀌고 이후 Cancelled 상태로 바뀐다.
     val job = GlobalScope.launch {
         delay(1000L)
         println("World!")

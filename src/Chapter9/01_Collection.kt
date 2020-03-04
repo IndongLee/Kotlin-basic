@@ -104,7 +104,7 @@ fun main() {
     println(capitalCityMap.keys)
     println(capitalCityMap.values)
 
-    capitalCityMap.put("UK", "London")
+    capitalCityMap["UK"] = "London"
     capitalCityMap.remove("France")
     println(capitalCityMap)
 

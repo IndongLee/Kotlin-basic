@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Anko_SignIn</string>
+    <string name="sign_in_username">Username</string>
+    <string name="sign_in_password">Password</string>
+    <string name="sign_in_button">Password</string>
+    <string name="invalid_user_title">Sign In Failed</string>
+    <string name="invalid_user_message">Invalid username of Invalid password</string>
+    <string name="access_denied_title">Access Denied</string>
+    <string name="access_denied_msg">You do not have permission</string>
+    <string name="button_close">Close</string>
+</resources>
